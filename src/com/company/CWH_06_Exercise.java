@@ -25,7 +25,7 @@ public class CWH_06_Exercise {
 
         float percentage = (totalMarks)/(500)*100;
 
-        System.out.println("Percentage Of Student = "+ percentage+"%");
+        System.out.println("Percentage Of Student : "+ percentage+"%");
 
 
 
